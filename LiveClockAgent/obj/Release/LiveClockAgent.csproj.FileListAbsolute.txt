@@ -1,0 +1,14 @@
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\Bin\Release\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\Bin\Release\LiveClockAgent.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\Bin\Release\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\Bin\Release\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\obj\Release\LiveClockAgent.csprojResolveAssemblyReference.cache
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\obj\Release\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\LiveClockAgent\obj\Release\LiveClockAgent.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\Bin\Release\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\Bin\Release\LiveClockAgent.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\Bin\Release\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\Bin\Release\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\obj\Release\LiveClockAgent.csprojResolveAssemblyReference.cache
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\obj\Release\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\obj\Release\LiveClockAgent.pdb

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAAJITMAIN</Machine>
+    <WindowsUser>Raajit</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fbf07f56-7b5a-4b75-ae5a-348636637f13</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live Clock Tile.dll">
+      <PackagePath>Live Clock Tile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\Bin\Debug\LiveClockAgent.dll">
+      <PackagePath>LiveClockAgent.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Bin\Debug\Live_Clock_Tile.Core.dll">
+      <PackagePath>Live_Clock_Tile.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Downloads\ImageTools-WP81-master\ImageTools-WP81-master\ImageTools.IO.Png.dll">
+      <PackagePath>ImageTools.IO.Png.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Downloads\ImageTools-WP81-master\ImageTools-WP81-master\ImageTools.dll">
+      <PackagePath>ImageTools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Downloads\ImageTools-WP81-master\ImageTools-WP81-master\ICSharpCode.SharpZLib.Phone.dll">
+      <PackagePath>ICSharpCode.SharpZLib.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Downloads\ImageTools-WP81-master\ImageTools-WP81-master\PhoneCodeContractsAssemblies.dll">
+      <PackagePath>PhoneCodeContractsAssemblies.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\300.png">
+      <PackagePath>300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Icons\runNew.png">
+      <PackagePath>Icons\runNew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Icons\wideRun.png">
+      <PackagePath>Icons\wideRun.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\oie_transparent.png">
+      <PackagePath>oie_transparent.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Icons\run.png">
+      <PackagePath>Icons\run.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\watchFaceBatteryTemp.png">
+      <PackagePath>watchFaceBatteryTemp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Icons\noWide.png">
+      <PackagePath>Icons\noWide.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

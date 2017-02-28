@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>Live Clock Tile.dll</File>
+    <File>es\Live Clock Tile.resources.dll</File>
+    <File>uk\Live Clock Tile.resources.dll</File>
+    <File>300.png</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Icons\runNew.png</File>
+    <File>Icons\wideRun.png</File>
+    <File>oie_transparent.png</File>
+    <File>Icons\run.png</File>
+    <File>AppManifest.xaml</File>
+    <File>ImageTools.IO.Png.dll</File>
+    <File>LiveClockAgent.dll</File>
+    <File>Live_Clock_Tile.Core.dll</File>
+    <File>ImageTools.dll</File>
+    <File>ICSharpCode.SharpZLib.Phone.dll</File>
+    <File>PhoneCodeContractsAssemblies.dll</File>
+    <File>watchFaceBatteryTemp.png</File>
+    <File>Icons\noWide.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

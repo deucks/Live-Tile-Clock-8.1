@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Live_Clock_Tile.Core.WideClocks.SimpleWide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="336" d:DesignWidth="691">
+
+    <Grid x:Name="LayoutRoot">
+        <TextBlock x:Name="hour" HorizontalAlignment="Left" TextWrapping="Wrap" Text="12" VerticalAlignment="Top" FontSize="170" Foreground="#FFFDFDFD" Width="691" Height="157" FontFamily="MS UI Gothic" TextAlignment="Center" FontWeight="Bold" Margin="0,4,0,0"/>
+        <TextBlock x:Name="minute" HorizontalAlignment="Left" Margin="0,151,0,0" TextWrapping="Wrap" Text="47" VerticalAlignment="Top" FontSize="170" Foreground="#FFFDFDFD" Width="691" Height="181" FontFamily="MS UI Gothic" TextAlignment="Center" FontWeight="Bold"/>
+
+    </Grid>
+</UserControl>

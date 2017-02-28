@@ -1,0 +1,13 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Live Clock Tile" EntryPointType="Live_Clock_Tile.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Live Clock Tile" Source="Live Clock Tile.dll" />
+    <AssemblyPart x:Name="ImageTools.IO.Png" Source="ImageTools.IO.Png.dll" />
+    <AssemblyPart x:Name="LiveClockAgent" Source="LiveClockAgent.dll" />
+    <AssemblyPart x:Name="Live_Clock_Tile.Core" Source="Live_Clock_Tile.Core.dll" />
+    <AssemblyPart x:Name="ImageTools" Source="ImageTools.dll" />
+    <AssemblyPart x:Name="ICSharpCode.SharpZLib.Phone" Source="ICSharpCode.SharpZLib.Phone.dll" />
+    <AssemblyPart x:Name="PhoneCodeContractsAssemblies" Source="PhoneCodeContractsAssemblies.dll" />
+    <AssemblyPart Source="es/Live Clock Tile.resources.dll" />
+    <AssemblyPart Source="uk/Live Clock Tile.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

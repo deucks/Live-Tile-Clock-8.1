@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Live_Clock_Tile.Core.WideClocks.Modern2Wide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="336" d:DesignWidth="691">
+
+    <Grid x:Name="LayoutRoot">
+        <TextBlock x:Name="hour" HorizontalAlignment="Left" Margin="0,22,0,0" TextWrapping="Wrap" Text="11" VerticalAlignment="Top" Foreground="#DEFDFDFD" FontFamily="Khmer UI" FontSize="220" Width="331" TextAlignment="Right" Height="208"/>
+        <TextBlock x:Name="minute" HorizontalAlignment="Left" Margin="336,-15,0,0" TextWrapping="Wrap" Text=":37" VerticalAlignment="Top" Foreground="#DEFDFDFD" FontFamily="Segoe WP SemiLight" FontSize="220" Width="355" Height="245"/>
+        <TextBlock x:Name="month" HorizontalAlignment="Left" Margin="0,245,0,0" TextWrapping="Wrap" Text="Wednesday, September 18" VerticalAlignment="Top" Foreground="#DEFDFDFD" FontFamily="Segoe WP SemiLight" FontSize="40" Width="691" Height="91" TextAlignment="Center"/>
+
+    </Grid>
+</UserControl>

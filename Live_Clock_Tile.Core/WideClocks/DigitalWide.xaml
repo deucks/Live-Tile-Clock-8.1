@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Live_Clock_Tile.Core.WideClocks.DigitalWide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="336" d:DesignWidth="691">
+
+    <Grid x:Name="LayoutRoot" Background="#FFE2A8A8">
+        <TextBlock x:Name="hour" HorizontalAlignment="Left" FontFamily="../Fonts/digital-7.ttf#digital-7" TextWrapping="Wrap" Text="09:20" VerticalAlignment="Top" FontSize="250" Margin="0,58,0,0" TextAlignment="Center" Width="691" Foreground="#DEFDFDFD" Height="228"/>
+        <TextBlock x:Name="ampm" HorizontalAlignment="Left" FontFamily="../Fonts/digital-7.ttf#digital-7" TextWrapping="Wrap" Text="PM" VerticalAlignment="Top" FontSize="50" Margin="446,277,0,0" TextAlignment="Center" Width="245" Foreground="#DEFDFDFD"/>
+        <TextBlock x:Name="month" HorizontalAlignment="Left" FontFamily="../Fonts/digital-7.ttf#digital-7" TextWrapping="Wrap" Text="Wednesday. 18 September" VerticalAlignment="Top" FontSize="50" TextAlignment="Center" Width="671" Foreground="#DEFDFDFD" Margin="10,21,0,0"/>
+
+    </Grid>
+</UserControl>

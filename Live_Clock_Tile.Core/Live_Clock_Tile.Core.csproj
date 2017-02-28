@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{316F8B5F-5A88-4B06-958B-470C285E57BA}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Live_Clock_Tile.Core</RootNamespace>
+    <AssemblyName>Live_Clock_Tile.Core</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
+    <SilverlightVersion>
+    </SilverlightVersion>
+    <SilverlightApplication>false</SilverlightApplication>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <TargetFrameworkProfile />
+    <DefaultLanguage>en-US</DefaultLanguage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BaseWatches.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="FreeClocks\FreeClock1.xaml.cs">
+      <DependentUpon>FreeClock1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock10.xaml.cs">
+      <DependentUpon>FreeClock10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock11.xaml.cs">
+      <DependentUpon>FreeClock11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock12.xaml.cs">
+      <DependentUpon>FreeClock12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock13.xaml.cs">
+      <DependentUpon>FreeClock13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock14.xaml.cs">
+      <DependentUpon>FreeClock14.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock2.xaml.cs">
+      <DependentUpon>FreeClock2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock3.xaml.cs">
+      <DependentUpon>FreeClock3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock4.xaml.cs">
+      <DependentUpon>FreeClock4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock5.xaml.cs">
+      <DependentUpon>FreeClock5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock6.xaml.cs">
+      <DependentUpon>FreeClock6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock7.xaml.cs">
+      <DependentUpon>FreeClock7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock8.xaml.cs">
+      <DependentUpon>FreeClock8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FreeClocks\FreeClock9.xaml.cs">
+      <DependentUpon>FreeClock9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryList.cs" />
+    <Compile Include="PaidClocks\PayClock1.xaml.cs">
+      <DependentUpon>PayClock1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock10.xaml.cs">
+      <DependentUpon>PayClock10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock11.xaml.cs">
+      <DependentUpon>PayClock11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock12.xaml.cs">
+      <DependentUpon>PayClock12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock13.xaml.cs">
+      <DependentUpon>PayClock13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock2.xaml.cs">
+      <DependentUpon>PayClock2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock3.xaml.cs">
+      <DependentUpon>PayClock3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock4.xaml.cs">
+      <DependentUpon>PayClock4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock5.xaml.cs">
+      <DependentUpon>PayClock5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock6.xaml.cs">
+      <DependentUpon>PayClock6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock7.xaml.cs">
+      <DependentUpon>PayClock7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock8.xaml.cs">
+      <DependentUpon>PayClock8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaidClocks\PayClock9.xaml.cs">
+      <DependentUpon>PayClock9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TileOptions.cs" />
+    <Compile Include="ToolStackCRCLib.cs" />
+    <Compile Include="ToolStackPNGWriterLib.cs" />
+    <Compile Include="ToolStackPNGWriterWBext.cs" />
+    <Compile Include="WideClocks\AnalogWide.xaml.cs">
+      <DependentUpon>AnalogWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\CmdWide.xaml.cs">
+      <DependentUpon>CmdWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\DecimalWide.xaml.cs">
+      <DependentUpon>DecimalWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\DigitalWide.xaml.cs">
+      <DependentUpon>DigitalWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\DomoWide.xaml.cs">
+      <DependentUpon>DomoWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\FadeWide.xaml.cs">
+      <DependentUpon>FadeWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\GlowWide.xaml.cs">
+      <DependentUpon>GlowWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\IdeaWide.xaml.cs">
+      <DependentUpon>IdeaWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\Modern2Wide.xaml.cs">
+      <DependentUpon>Modern2Wide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\ModernWide.xaml.cs">
+      <DependentUpon>ModernWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\NoTile.xaml.cs">
+      <DependentUpon>NoTile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\PokiWide.xaml.cs">
+      <DependentUpon>PokiWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\SimpleWide.xaml.cs">
+      <DependentUpon>SimpleWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\SunshineWide.xaml.cs">
+      <DependentUpon>SunshineWide.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WideClocks\ZaagWide.xaml.cs">
+      <DependentUpon>ZaagWide.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="FreeClocks\FreeClock1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock10.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FreeClocks\FreeClock12.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FreeClocks\FreeClock13.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FreeClocks\FreeClock14.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FreeClocks\FreeClock2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock8.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="FreeClocks\FreeClock9.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock12.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock13.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaidClocks\PayClock6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PaidClocks\PayClock9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\AnalogWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\CmdWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\DecimalWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\DigitalWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\DomoWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\FadeWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\GlowWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\IdeaWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\Modern2Wide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\ModernWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\NoTile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\PokiWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\SimpleWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\SunshineWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WideClocks\ZaagWide.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\noWide.png" />
+    <Content Include="Icons\run.png" />
+    <Content Include="Icons\runNew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fonts\digital-7.ttf" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <ProjectExtensions />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

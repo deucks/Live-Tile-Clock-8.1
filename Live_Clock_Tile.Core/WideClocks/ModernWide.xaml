@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Live_Clock_Tile.Core.WideClocks.ModernWide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="336" d:DesignWidth="691">
+
+    <Grid x:Name="LayoutRoot">
+        <TextBlock x:Name="ampm" HorizontalAlignment="Left" Margin="395,154,0,0" TextWrapping="Wrap" Text="PM" VerticalAlignment="Top" FontSize="65" Foreground="#FFFDFDFD" Width="136" Height="86" FontFamily="Segoe WP Light"/>
+        <TextBlock x:Name="date" HorizontalAlignment="Left" Margin="10,247,0,0" TextWrapping="Wrap" Text="June 24 - 2014" VerticalAlignment="Top" FontSize="50" Foreground="#FFFDFDFD" Width="671" TextAlignment="Center" Height="79" FontFamily="Segoe WP SemiLight"/>
+        <TextBlock x:Name="hour" HorizontalAlignment="Left" Margin="52,-44,0,0" TextWrapping="Wrap" Text="11" VerticalAlignment="Top" FontSize="250" Foreground="#FFFDFDFD" Width="338" Height="292" FontFamily="Segoe WP Light" TextAlignment="Right"/>
+        <TextBlock x:Name="minute" HorizontalAlignment="Left" Margin="395,10,0,0" TextWrapping="Wrap" Text="25" VerticalAlignment="Top" FontSize="120" Foreground="#FFFDFDFD" Width="285" Height="170" FontFamily="Segoe WP Light"/>
+
+    </Grid>
+</UserControl>

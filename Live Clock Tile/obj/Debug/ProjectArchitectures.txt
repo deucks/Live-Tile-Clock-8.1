@@ -1,0 +1,4 @@
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Live Clock Tile.csproj;neutral
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Live_Clock_Tile.Core.csproj;neutral
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Live_Clock_Tile.Core.csproj;neutral
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\LiveClockAgent\LiveClockAgent.csproj;neutral

@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Live_Clock_Tile.Core.WideClocks.FadeWide"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="336" d:DesignWidth="691">
+
+    <Grid x:Name="LayoutRoot">
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="444" Margin="126,-54,0,-54" VerticalAlignment="Top" Width="444" Opacity="0.8"/>
+        <Rectangle x:Name="hour" HorizontalAlignment="Left" Height="131" Margin="322,58,0,0" VerticalAlignment="Top" Width="58" RadiusY="24" RadiusX="24" RenderTransformOrigin="0.448,0.835" Fill="{StaticResource PhoneAccentBrush}"/>
+        <Rectangle x:Name="minute" HorizontalAlignment="Left" Height="143.245" Margin="323.306,-0.189,0,0" VerticalAlignment="Top" Width="56.203" RadiusY="24" RadiusX="24" RenderTransformOrigin="0.439,1.169" UseLayoutRounding="False" d:LayoutRounding="Auto" Fill="{StaticResource PhoneAccentBrush}" Opacity="0.8">
+
+
+        </Rectangle>
+        <Ellipse HorizontalAlignment="Left" Height="142" Margin="278,97,0,0" VerticalAlignment="Top" Width="140" Stroke="White" StrokeThickness="3" Fill="{StaticResource PhoneAccentBrush}"/>
+        <TextBlock x:Name="time" HorizontalAlignment="Left" Margin="293,140,0,0" TextWrapping="Wrap" Text="24:42" VerticalAlignment="Top" Width="110" FontSize="40" RenderTransformOrigin="0.627,0.4" TextAlignment="Center" Foreground="#FFFDFDFD" Height="56"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,67 @@
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\Bin\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\Bin\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock1.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock10.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock2.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock3.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock4.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock5.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock6.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock7.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock8.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock9.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock1.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock2.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock3.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock4.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock5.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.g.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Bin\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\Bin\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock1.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock10.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock2.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock3.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock4.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock5.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock6.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock7.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock8.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock9.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock1.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock2.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock3.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock4.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock5.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock6.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.g.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock11.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock12.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock13.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\FreeClocks\FreeClock14.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock10.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock7.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock8.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock9.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\AnalogWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\CmdWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\DecimalWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\DomoWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\GlowWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\IdeaWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\Modern2Wide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\ModernWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\NoTile.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\SimpleWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\SunshineWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\ZaagWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock11.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock12.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\PaidClocks\PayClock13.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\FadeWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\PokiWide.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live_Clock_Tile.Core\obj\Debug\WideClocks\DigitalWide.g.cs

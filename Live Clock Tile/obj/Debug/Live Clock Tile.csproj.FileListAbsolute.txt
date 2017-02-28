@@ -1,0 +1,87 @@
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Live Clock Tile.dll
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Live Clock Tile.pdb
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\AppManifest.xaml
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Live_Clock_Tile_Debug_AnyCPU.xap
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\App.g.cs
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\MainPage.g.cs
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live Clock Tile.g.resources
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live_Clock_Tile.Resources.AppResources.resources
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live Clock Tile.csproj.GenerateResource.Cache
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live Clock Tile.dll
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live Clock Tile.pdb
+c:\users\raajit\documents\visual studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\XapCacheFile.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\obj\Debug\Live Clock Tile.csprojResolveAssemblyReference.cache
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ImageTools.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\PhoneCodeContractsAssemblies.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile\Live Clock Tile\Bin\Debug\LiveClockAgent.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live Clock Tile.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live Clock Tile.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\resources.pri
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\AppxManifest.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live Clock Tile.build.appxrecipe
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\AppManifest.xaml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live Clock Tile_Debug_AnyCPU.xap
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\LiveClockAgent.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live_Clock_Tile.Core.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\ImageTools.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\LiveClockAgent.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\Live_Clock_Tile.Core.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live Clock Tile.csprojResolveAssemblyReference.cache
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\App.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\MainPage.g.cs
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live Clock Tile.g.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live_Clock_Tile.Resources.AppResources.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live Clock Tile.csproj.GenerateResource.Cache
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live Clock Tile.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live Clock Tile.pdb
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\priconfig.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\priconfig.xml.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\layout.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\layout.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\resources.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\resources.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\pri.resfiles
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\pri.resfiles.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\qualifiers.txt
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\ProjectArchitectures.txt
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\MDILProjectFiles.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\XapCacheFile.xml
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\es\Live Clock Tile.resources.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\uk\Live Clock Tile.resources.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\Bin\Debug\zh-CHS\Live Clock Tile.resources.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live_Clock_Tile.Resources.AppResources.es.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live_Clock_Tile.Resources.AppResources.uk.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\Live_Clock_Tile.Resources.AppResources.zh-CHS.resources
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\es\Live Clock Tile.resources.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\uk\Live Clock Tile.resources.dll
+C:\Users\Raajit\Documents\Visual Studio 2013\Projects\Live Clock Tile 8.1\Live Clock Tile\obj\Debug\zh-CHS\Live Clock Tile.resources.dll
